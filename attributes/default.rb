@@ -8,7 +8,7 @@ default[:elixir][:source][:repo] = "https://github.com/elixir-lang/elixir.git"
 default[:elixir][:source][:revision] = "master"
 
 default[:elixir][:precompiled][:repo] = "https://github.com/elixir-lang/elixir/releases/download"
-default[:elixir][:precompiled][:revision] = "v1.2.3"
+default[:elixir][:precompiled][:revision] = "v1.3.2"
 
 # ---- The following ubuntu ppa package is deprecated and not available -----
 default[:elixir][:package][:apt][:revision] = "0.12.5-0"
